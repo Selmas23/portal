@@ -28,7 +28,7 @@ h1.page-header {
 
 
 main.wrapper {
-    background-color: rgb(138, 190, 150);
+    background-color: rgb(216, 203, 149);
     overflow: auto;
 }
 
@@ -43,7 +43,7 @@ h2,h3 {
 }
 
 a {
-    color:rgb(112, 190, 158);
+    color:rgb(181, 240, 191);
     text-decoration: none;
 }
 
