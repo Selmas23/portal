@@ -5,7 +5,7 @@
 
 html {
     background-color: rgb(160, 208, 157);
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Quicksand', 'Arial';
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -28,7 +28,7 @@ h1.page-header {
 
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(138, 190, 150);
     overflow: auto;
 }
 
